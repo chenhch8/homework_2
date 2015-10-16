@@ -1,0 +1,122 @@
+body {
+    font-size: 8pt;
+    font-family: Verdana, Tahoma, sans-serif;
+    background-origin: border-box;
+    margin: 0px;
+    background: url("http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/background.png?version=1&modificationDate=1268896312000");
+    background-repeat: repeat;
+    position: relative;
+}
+
+h1 {
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+div#block_1 {
+    background-image: url("http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/bannerbackground.png?version=1&modificationDate=1268896312000");
+    background-repeat: repeat;
+    height: 50px;
+}
+
+div#block_2 {
+    width: 800px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+}
+
+div#block_2 div#overview {
+    float: right;
+    width: 250px;
+    background-color: #A2B964;
+    font-size: 8pt;
+    font-family: Arial, sans-serif;
+}
+
+div#block_2 div#overview dl {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+div#block_2 div#overview dt {
+    font-weight: bold;
+    margin-top: 1em;
+}
+
+div#center_left {
+    width: 550px;
+}
+
+div#center_left div#rotten {
+    background-image: url("http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/rottenbackground.png?version=1&modificationDate=1268896385000");
+    background-repeat: repeat;
+    height: 83px;
+}
+
+div#center_left div#rotten span#rotten_1 {
+    color: red;
+    font-size: 48pt;
+    font-weight: bold;
+    vertical-align: bottom;
+}
+
+div#center_left div#rotten span#rotten_2 {
+    color: white;
+    font-size: 8pt;
+    vertical-align: 80%;
+}
+
+div#center_left div.vvv {
+    margin-bottom: 3em;
+
+}
+div#center_left div.vvv p.review {
+    border-color: gray;
+    border-style: solid;
+    border-width: 2px;
+    background-color: #E1D697;
+    font-size: 8pt;
+    font-weight: bold;
+    padding: 8px;
+}
+
+div#center_left div.vvv img {
+    float: left;
+    margin-right: 5px;
+}
+
+div#column_1 {
+    width: 47%;
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+div#column_2 {
+    width: 47%;
+    float: right;
+    margin-right: 2%;
+}
+
+p#footer {
+    background-color: #A2B964;
+    text-align: center;
+    padding: 5px;
+    margin: 0px;
+}
+
+div#top {
+    overflow: auto;
+}
+
+div#picture {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
