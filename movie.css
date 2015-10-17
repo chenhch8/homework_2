@@ -74,8 +74,8 @@ div#center_left div#rotten span#rotten_2 {
 
 div#center_left div.vvv {
     margin-bottom: 3em;
-
 }
+
 div#center_left div.vvv p.review {
     border-color: gray;
     border-style: solid;
@@ -84,6 +84,7 @@ div#center_left div.vvv p.review {
     font-size: 8pt;
     font-weight: bold;
     padding: 8px;
+    overflow: auto;
 }
 
 div#center_left div.vvv img {
