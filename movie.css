@@ -121,3 +121,11 @@ div#picture {
     bottom: 0;
     right: 0;
 }
+
+#column_1 span {
+    font-style: italic;
+}
+
+#column_2 span {
+    font-style: italic;
+}
