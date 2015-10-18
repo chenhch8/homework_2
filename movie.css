@@ -3,7 +3,7 @@ body {
     font-family: Verdana, Tahoma, sans-serif;
     background-origin: border-box;
     margin: 0px;
-    background: url("http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/background.png?version=1&modificationDate=1268896312000");
+    background: url("images/background.png");
     background-repeat: repeat;
     position: relative;
 }
@@ -16,7 +16,7 @@ h1 {
 }
 
 div#block_1 {
-    background-image: url("http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/bannerbackground.png?version=1&modificationDate=1268896312000");
+    background-image: url("images/bannerbackground.png");
     background-repeat: repeat;
     height: 50px;
 }
@@ -54,7 +54,7 @@ div#center_left {
 }
 
 div#center_left div#rotten {
-    background-image: url("http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/rottenbackground.png?version=1&modificationDate=1268896385000");
+    background-image: url("images/rottenbackground.png");
     background-repeat: repeat;
     height: 83px;
 }
